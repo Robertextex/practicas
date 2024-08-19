@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "email": "bedei111@umn.edu",
+      "name": "salah bedeiwi 33356",
+      "password": "salah",
+      "id": "1"
+    },
+    {
+      "email": "bedei222@umn.edu",
+      "name": "salah bedeiwi",
+      "password": "salah",
+      "id": "2"
+    },
+    {
+      "email": "bedei333@umn.edu",
+      "name": "salah bedeiwi",
+      "password": "salah",
+      "id": "3"
+    },
+    {
+      "id": "522c"
+    }
+  ]
+}
